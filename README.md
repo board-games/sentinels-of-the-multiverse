@@ -1,6 +1,6 @@
-# Sentinels of the Multiverse
-
 ![Sentinels of the Multiverse Logo](http://sentinelsofthemultiverse.com/sites/all/themes/sentinels_otm/logo.png)
+
+# Sentinels of the Multiverse
 
 Sentinels of the Multiverse is card game published by Greater Than Games.
 
@@ -11,7 +11,7 @@ It is a cooperative game in which players control a team of comic book-style her
 * [Official website](http://sentinelsofthemultiverse.com/)
 * [Official Rulebook (PDF)](https://greaterthangames.com/system/files/downloads/Sentinels%20of%20the%20Multiverse%20Enhanced%20Edition%20Rulebook.pdf)
 * [Video: learn to play](https://www.youtube.com/watch?v=g2Rz_i56WJE)
-* BoardGameGeek: [Sentinels of the Multiverse]https://boardgamegeek.com/boardgame/102652/sentinels-multiverse)
+* BoardGameGeek: [Sentinels of the Multiverse](https://boardgamegeek.com/boardgame/102652/sentinels-multiverse)
 
 ## See
 
